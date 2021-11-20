@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "/"
+    "url": "git+https://https://github.com/Refloow/Steam-Vanity-URL-Swap.git"
   },
   "dependencies": {
     "console-master": "^1.0.3",
