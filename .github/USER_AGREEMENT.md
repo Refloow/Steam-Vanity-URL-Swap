@@ -1,7 +1,7 @@
 ## User Agreement
 
 This "User Agreement" is an agreement between you the ("User") and<br>
-provider of this software ("OSL-Works", "Refloow") for project "Steam-Card-Bot-PRO".<br> 
+provider of this software ("OSL-Works", "Refloow") for project "Steam-Vanity-URL-Swap".<br> 
 
 By use of our software, you accept and agree with the terms and conditions of this agreement.<br>
 If you do not agree to all of the terms and conditions, then do not install or use
