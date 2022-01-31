@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/package-json/v/Refloow/Steam-Vanity-URL-Swap.svg" alt="GitHub package version">
   </a>
     <a href="https://github.com/Refloow/Steam-Vanity-URL-Swap/network" target="_blank">
-  <img src="https://img.shields.io/github/forks/Refloow/Steam-Card-Bot-PRO.svg?style=plastic" alt="GitHub forks">
+  <img src="https://img.shields.io/github/forks/Refloow/Steam-Vanity-URL-Swap.svg?style=plastic" alt="GitHub forks">
   </a>
     <a href="https://github.com/Refloow/Steam-Vanity-URL-Swap/stargazers" target="_blank">
   <img src="https://img.shields.io/github/stars/Refloow/Steam-Vanity-URL-Swap.svg?style=plastic" alt="GitHub stars">
