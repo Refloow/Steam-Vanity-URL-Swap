@@ -1,6 +1,6 @@
 # Privacy Policy
 
-<b>OSL-Works</b> takes your privacy seriously.<br> 
+<b>Refloow</b> takes your privacy seriously.<br> 
 To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
@@ -13,7 +13,7 @@ In case of project requiring an connection to an database connection details [ip
 
 ## Security
 
-Read the [Security Policy](https://github.com/OSL-Works/Steam-Card-Bot-PRO/blob/master/.github/SECURITY.md)
+Read the [Security Policy](https://github.com/Refloow/Steam-Vanity-URL-Swap/blob/master/.github/SECURITY.md)
 
 ## Changes To This Privacy Policy
 
