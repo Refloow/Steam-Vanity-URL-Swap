@@ -1,7 +1,7 @@
 // Copyright notice:
 
 /*--------------------------------------------------------------------------------------------- 
-* Original work: Copyright (c) 2021 Refloow (Veljko Vuckovic) All rights reserved.
+* Original work: Copyright (c) 2022 Refloow.com (Veljko Vuckovic) All rights reserved.
 * Developer name: Veljko Vuckovic
 * Licensed under the MIT License. See LICENSE in the project root for license information.
   Main developer steam: https://steamcommunity.com/id/MajokingGames/ 
