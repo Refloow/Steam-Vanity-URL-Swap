@@ -1,7 +1,7 @@
 module.exports = {
 
 
-    /* Original work: Copyright (c) 2021 Refloow (Veljko Vuckovic) All rights reserved. */
+    /* Original work: Copyright (c) 2022 Refloow.com (Veljko Vuckovic) All rights reserved. */
 
 
         // Account1 => tempVanityURL
