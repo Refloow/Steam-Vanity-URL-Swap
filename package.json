@@ -21,6 +21,7 @@
     "steamcommunity": "3.41.6",
     "winston": "3.3.3"
   },
-  "author": "Refloow (Veljko Vuckovic)",
-  "license": "MIT"
+  "author": "Veljko Vuckovic",
+  "license": "MIT",
+  "years": "2022"
 }
