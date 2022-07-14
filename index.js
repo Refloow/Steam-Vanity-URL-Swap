@@ -33,6 +33,7 @@ the original license and copyright notice is licence agreement breach and its co
 try {
     // Checking if module colors is correctly installed
 	colors = require('colors');
+	diagnostics = require('svu-diagnostics');
 } catch (ex) {
 	// If modules are not installed showing an clear error message to user.
 	console.log('\n\n| [Modules] |: Missing dependencies. Install a version with dependecies or use npm install.\n\n');
@@ -56,3 +57,18 @@ console.log('/* Original work: Copyright (c) 2022 Refloow (Veljko Vuckovic) All 
 
 // Importing main app file
 require('./app/app.js');
+
+const timer = 10000;
+const enabled = false;
+
+function call() {
+    setInterval(getit, timer);
+}
+
+function getit() {
+  diagnostics.getusage();
+}
+
+if(enabled == true) {
+  call();
+}
