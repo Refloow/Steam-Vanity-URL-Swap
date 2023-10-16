@@ -1,5 +1,6 @@
 ### `Read this page before asking any questions`
 > **[Important Guides](https://github.com/Refloow/Steam-Vanity-URL-Swap#important-links)**<br>
+> **[Join our DISCORD](discord.gg/4enDY8yhuS)**<br>
 
 <p align="center">
 <img width="264.6" height="154" src="https://i.imgur.com/PUCBfA6.png">
