@@ -17,9 +17,9 @@
     "moment": "2.28.0",
     "request": "2.88.0",
     "request-promise": "4.2.6",
-    "steam-totp": "2.1.1",
-    "steam-user": "5.0.1",
-    "steamcommunity": "3.41.6",
+    "steam-totp": "^2.1.2",
+    "steam-user": "5.0.4",
+    "steamcommunity": "^3.48.0",
     "svu-diagnostics": "^1.0.1",
     "winston": "3.3.3"
   },
