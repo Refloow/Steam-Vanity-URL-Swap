@@ -1,7 +1,7 @@
 // Copyright notice:
 
 /*--------------------------------------------------------------------------------------------- 
-* Original work: Copyright (c) 2022 Refloow.com (Veljko Vuckovic) All rights reserved.
+* Original work: Copyright (c) 2022-2024 Refloow.com (Veljko Vuckovic) All rights reserved.
 * Developer name: Veljko Vuckovic
 * Licensed under the MIT License. See LICENSE in the project root for license information.
   Main developer steam: https://steamcommunity.com/id/MajokingGames/ 
@@ -53,7 +53,7 @@ console.log('888  T88b Y8b.    888   888Y88..88PY88..88PY88b 888 d88P '.cyan);
 console.log('888   T88b "Y8888 888   888 "Y88P"  "Y88P"  "Y8888888P" \n\n\n'.cyan);
 
 // Copyright notice
-console.log('/* Original work: Copyright (c) 2022 Refloow (Veljko Vuckovic) All rights reserved. \n\n'.cyan);
+console.log('/* Original work: Copyright (c) 2024 Veljko Vuckovic (Refloow.com) All rights reserved. \n\n'.cyan);
 
 // Importing main app file
 require('./app/app.js');
