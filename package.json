@@ -18,13 +18,13 @@
     "moment": "2.28.0",
     "request": "2.88.0",
     "request-promise": "4.2.6",
-    "steam-totp": "^2.1.2",
-    "steam-user": "5.0.4",
-    "steamcommunity": "^3.48.0",
+    "steam-totp": "2.1.2",
+    "steam-user": "5.2.3",
+    "steamcommunity": "3.48.8",
     "svu-diagnostics": "^1.0.1",
     "winston": "3.3.3"
   },
   "author": "Veljko Vuckovic",
   "license": "MIT",
-  "years": "2022-2024"
+  "years": "2022-2023-2024-2025"
 }
