@@ -12,7 +12,7 @@ echo .
 echo .
 echo // Copyright notice:
 echo .
-echo /* Original work: Copyright (c) 2021 Refloow (Veljko Vuckovic) All rights reserved.
+echo /* Original work: Copyright (c) 2021-2025 Refloow (Veljko Vuckovic) All rights reserved.
 echo .
 echo .
 echo Installing the required modules.
