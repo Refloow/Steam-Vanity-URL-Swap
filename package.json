@@ -1,6 +1,6 @@
 {
   "name": "steam-vanity-url-swap",
-  "version": "1.0.2",
+  "version": "1.0.3  ",
   "description": "Nodejs based script for swaping vanity url between two steam accounts as fast as possible",
   "main": "index.js",
   "scripts": {
