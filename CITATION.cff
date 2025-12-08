@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "To ensure brand protection and accurate attribution, please cite the Refloow™ software suite as follows:"
+title: "Refloow™ Steam Vanity URL Swap"
+abstract: "The high-speed Vanity URL swapper for Steam, maintained by the Refloow™ Software Organization."
+authors:
+  - name: "Refloow"
+    website: "https://refloow.com"
+    email: "legal@refloow.com"
+  - family-names: "Vuckovic"
+    given-names: "Veljko"
+    affiliation: "Refloow Founder"
+version: 1.0.3
+date-released: 2021-11-20
+license: "MIT"
+repository-code: "https://github.com/Refloow/Steam-Vanity-URL-Swap"
+url: "https://refloow.com"
+keywords:
+  - "Refloow"
+  - "Refloow™"
+  - "Official"
+  - "Steam Automation"
+  - "Vanity URL"
+  - "Swap"
