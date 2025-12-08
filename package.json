@@ -1,7 +1,7 @@
 {
-  "name": "steam-vanity-url-swap",
+  "name": "@refloow/steam-vanity-url-swap",
   "version": "1.0.3  ",
-  "description": "Nodejs based script for swaping vanity url between two steam accounts as fast as possible",
+  "description": "Refloow™ Steam Vanity URL Swap - high speed node.js script for swaping vanity url between two steam accounts as fast as possible",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,6 +11,36 @@
     "type": "git",
     "url": "git+https://https://github.com/Refloow/Steam-Vanity-URL-Swap.git"
   },
+  "private": true,
+  "author": {
+    "name": "Refloow",
+    "email": "legal@refloow.com",
+    "url": "https://refloow.com"
+  },
+  "contributors": [
+    {
+      "name": "Veljko Vuckovic",
+      "url": "https://github.com/Refloow"
+    }
+  ],
+  "funding": {
+    "type": "individual",
+    "url": "https://refloow.com"
+  },
+  "keywords": [
+    "Refloow",
+    "Refloow™",
+    "Official",
+    "Refloow Ecosystem",
+    "url",
+    "bot",
+    "fast",
+    "steam",
+    "steambot",
+    "swap",
+    "vanity",
+    "vanityswap"
+  ],
   "homepage": "https://github.com/Refloow/Steam-Vanity-URL-Swap",
   "dependencies": {
     "colors": "1.4.0",
@@ -24,7 +54,6 @@
     "svu-diagnostics": "^1.0.1",
     "winston": "3.3.3"
   },
-  "author": "Veljko Vuckovic",
   "license": "MIT",
   "years": "2022-2023-2024-2025"
 }
