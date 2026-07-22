@@ -1,6 +1,6 @@
 {
   "name": "@refloow/steam-vanity-url-swap",
-  "version": "1.0.3  ",
+  "version": "1.0.4",
   "description": "Refloow™ Steam Vanity URL Swap - high speed node.js script for swaping vanity url between two steam accounts as fast as possible",
   "main": "index.js",
   "scripts": {
@@ -44,16 +44,16 @@
   "homepage": "https://github.com/Refloow/Steam-Vanity-URL-Swap",
   "dependencies": {
     "colors": "1.4.0",
-    "console-master": "^1.0.3",
+    "console-master": "1.0.3",
     "moment": "2.28.0",
     "request": "2.88.0",
     "request-promise": "4.2.6",
     "steam-totp": "2.1.2",
     "steam-user": "5.2.3",
     "steamcommunity": "3.48.8",
-    "svu-diagnostics": "^1.0.1",
+    "svu-diagnostics": "1.0.1",
     "winston": "3.3.3"
   },
   "license": "MIT",
-  "years": "2022-2023-2024-2025"
+  "years": "2022-2026"
 }
