@@ -50,7 +50,7 @@
     "request-promise": "4.2.6",
     "steam-totp": "2.1.2",
     "steam-user": "5.2.3",
-    "steamcommunity": "3.48.8",
+    "steamcommunity": "3.50.3",
     "svu-diagnostics": "1.0.1",
     "winston": "3.3.3"
   },
